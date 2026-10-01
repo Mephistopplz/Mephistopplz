@@ -1,10 +1,10 @@
 # - Cybersecurity Student
 
-I'm a passionate Security Analyst focused on securing digital landscapes. If you're here, you're likely a prospective employer looking to find out a little more about me. You've come to the right place!
+I'm a passionate Security focused individual, exploring the ways of securing digital landscapes. If you're here, you're likely a prospective employer looking to find out a little more about me. You've come to the right place!
 
 ## About Me
 
-- **Certifications:** [CompTIA Security+](https://www.credly.com/badges/0763735c-eae2-401b-a717-b1476a43322b/public_url) | CompTIA CySA+ (anticipated) | CCNA (In Progress)
+- **Certifications:** [CompTIA Security+](https://www.credly.com/badges/0763735c-eae2-401b-a717-b1476a43322b/public_url) | CompTIA CySA+ (anticipated) | CCNA (In Progress) | GCP Associate Engineer Certification (Underway)
 - **Mission:** To continuously advance my knowledge and proficiency as a security analyst through daily learning and professional development.
 
 ## Security+ Skill Set Breakdown (Practical + Conceptual)
@@ -124,7 +124,7 @@ I'm a passionate Security Analyst focused on securing digital landscapes. If you
 In this repository, you'll find a treasure trove of cybersecurity resources, including:
 
 - **YouTube Tutorials 📺:** Informative guides to help you navigate the ever-evolving world of cybersecurity. **Coming soon!!**
-- **Security Tools 🧰:** A curated collection of tools and scripts to bolster your digital defence.
+- **Security Tools 🧰: A group of projects I am currently working on to automate pentesting, amongst a couple other projects.
 
 ## Contributions Welcome
 
