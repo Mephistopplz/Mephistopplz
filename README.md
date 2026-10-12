@@ -41,4 +41,4 @@ This profile holds my lab work, detections and tooling.
 
 **Ethics:** Everything here is for learning and defence. Testing is only ever performed in my own lab or with explicit authorisation.
 
-[LinkedIn](www.linkedin.com/in/shannon-głowacki1)
+[LinkedIn]([LinkedIn](https://www.linkedin.com/in/shannon-g%C5%82owacki1/))
